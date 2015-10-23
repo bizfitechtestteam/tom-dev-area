@@ -1,0 +1,5 @@
+c:\users\tom.woodcock\documents\visual studio 2015\Projects\TomTrialSolution\TrialProject\bin\Debug\TrialProject.dll
+c:\users\tom.woodcock\documents\visual studio 2015\Projects\TomTrialSolution\TrialProject\bin\Debug\TrialProject.pdb
+c:\users\tom.woodcock\documents\visual studio 2015\Projects\TomTrialSolution\TrialProject\obj\Debug\TrialProject.csprojResolveAssemblyReference.cache
+c:\users\tom.woodcock\documents\visual studio 2015\Projects\TomTrialSolution\TrialProject\obj\Debug\TrialProject.dll
+c:\users\tom.woodcock\documents\visual studio 2015\Projects\TomTrialSolution\TrialProject\obj\Debug\TrialProject.pdb
